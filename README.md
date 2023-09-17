@@ -1,2 +1,2 @@
 # Hierarchy-GNN-for-HLS
-Hierarchy GNN for HLS
+To be updated
